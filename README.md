@@ -21,4 +21,4 @@ One Dark Syntax Theme for Notepad++, with matching Nand to Tetris (NAND2TET, or 
 
 ### Other Editors
 - [VSCode](https://marketplace.visualstudio.com/items?itemName=loyio.Nand2Tetris-vscode)
-- [VIM](https://github.com/sevko/vim-nand2tetris-syntax)
+- [VIM](https://github.com/sevko/vim-nand2tetris-syntax). If you use vim-plug, can easily install with [**`Plug https://github.com/sevko/vim-nand2tetris-syntax.git'`**].
