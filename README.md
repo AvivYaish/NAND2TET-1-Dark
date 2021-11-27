@@ -6,7 +6,7 @@ One Dark Syntax Theme for Notepad++
 
 ### Theme Installation:
 1. Download [**`Npp-1-Dark.xml`**](https://raw.githubusercontent.com/AvivYaish/NAND2TET-1-Dark/master/Npp-1-Dark.xml), which was created by [**`60ss`**](https://github.com/60ss/Npp-1-Dark).
-2. Run **`Notepad++`** As administrator.
+2. Run **`Notepad++`** as administrator.
 3. Open `Setting -> Import -> Import style theme(s)`.
 4. Choose **`Npp-1-Dark.xml`**.
 5. Open `Settings -> Style Configurator` and Select theme **`Npp-1-Dark`**.
