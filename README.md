@@ -1,6 +1,8 @@
 # NAND2TET-1-Dark
 One Dark Syntax Theme for Notepad++, with matching Nand to Tetris (NAND2TET, or NAND2TETRIS, etc) syntax highlighting.
 
+See HUJI's version of the course at this [repo](https://github.com/AvivYaish/nand2tetris_HUJI).
+
 ![Npp-1-Dark](https://raw.githubusercontent.com/AvivYaish/NAND2TET-1-Dark/master/screenshot.jpg)
 > A close replica of the Atom **`One Dark`** syntax theme in **`Notepad++`**.
 
