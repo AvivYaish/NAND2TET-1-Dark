@@ -5,7 +5,7 @@ One Dark Syntax Theme for Notepad++
 > A close replica of the Atom **`One Dark`** syntax theme in **`Notepad++`**.
 
 ### Theme Installation:
-1. Download [**`Npp-1-Dark.xml`**](https://raw.githubusercontent.com/60ss/Npp-1-Dark/master/Npp-1-Dark.xml).
+1. Download [**`Npp-1-Dark.xml`**](https://raw.githubusercontent.com/60ss/Npp-1-Dark/master/Npp-1-Dark.xml), which was created by @60ss.
 2. Run **`Notepad++`** As administrator.
 3. Open `Setting -> Import -> Import style theme(s)`.
 4. Choose **`Npp-1-Dark.xml`**.
