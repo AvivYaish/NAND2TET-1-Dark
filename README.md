@@ -1,5 +1,5 @@
 # NAND2TET-1-Dark
-One Dark Syntax Theme for Notepad++
+One Dark Syntax Theme for Notepad++, with matching NAND2TET syntax highlighting.
 
 ![Npp-1-Dark](https://raw.githubusercontent.com/AvivYaish/NAND2TET-1-Dark/master/screenshot.jpg)
 > A close replica of the Atom **`One Dark`** syntax theme in **`Notepad++`**.
@@ -18,3 +18,7 @@ One Dark Syntax Theme for Notepad++
 3. Click `Import` and Choose **`hdl.xml`**, **`hack.xml`**, **`vm.xml`**, **`jack.xml`**, **`tst.xml`**.
 4. Click `Open`.
 4. Restart **`Notepad++`**.
+
+### Other Editors
+- [VSCode](https://marketplace.visualstudio.com/items?itemName=loyio.Nand2Tetris-vscode)
+- [VIM](https://github.com/sevko/vim-nand2tetris-syntax)
