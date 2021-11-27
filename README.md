@@ -1,7 +1,7 @@
 # NAND2TET-1-Dark
 One Dark Syntax Theme for Notepad++
 
-![Npp-1-Dark](https://raw.githubusercontent.com/AvivYaish/NAND2TET-1-Dark/master/screenshot.png)
+![Npp-1-Dark](https://raw.githubusercontent.com/AvivYaish/NAND2TET-1-Dark/master/screenshot.jpg)
 > A close replica of the Atom **`One Dark`** syntax theme in **`Notepad++`**.
 
 ### Theme Installation:
