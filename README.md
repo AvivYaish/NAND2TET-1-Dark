@@ -17,7 +17,7 @@ See HUJI's version of the course at this [repo](https://github.com/AvivYaish/nan
 ### NAND2TET Syntax Highlighting Installation:
 1. Download [**`hdl.xml`**](https://raw.githubusercontent.com/AvivYaish/NAND2TET-1-Dark/master/hdl.xml), [**`hack.xml`**](https://raw.githubusercontent.com/AvivYaish/NAND2TET-1-Dark/master/hack.xml), [**`vm.xml`**](https://raw.githubusercontent.com/AvivYaish/NAND2TET-1-Dark/master/vm.xml), [**`jack.xml`**](https://raw.githubusercontent.com/AvivYaish/NAND2TET-1-Dark/master/jack.xml), [**`tst.xml`**](https://raw.githubusercontent.com/AvivYaish/NAND2TET-1-Dark/master/tst.xml).
 2. Open `Language -> Define your language...`.
-3. Click `Import` and Choose **`hdl.xml`**, **`hack.xml`**, **`vm.xml`**, **`jack.xml`**, **`tst.xml`**.
+3. Click `Import` and choose **`hdl.xml`**, **`hack.xml`**, **`vm.xml`**, **`jack.xml`**, **`tst.xml`**.
 4. Click `Open`.
 4. Restart **`Notepad++`**.
 
