@@ -1,10 +1,15 @@
 # NAND2TET-1-Dark
-OneDark Theme for Notepad++ with matching Nand to Tetris (NAND2TET / NAND2TETRIS / etc) syntax highlighting.
 
-See HUJI's version of the course [here](https://github.com/AvivYaish/nand2tetris_HUJI).
+OneDark Theme for Notepad++ with matching Nand to Tetris (NAND2TET / NAND2TETRIS
+/ etc) syntax highlighting.
+
+See HUJI's version of the course
+[here](https://github.com/AvivYaish/nand2tetris_HUJI).
 
 ![Npp-1-Dark](https://raw.githubusercontent.com/AvivYaish/NAND2TET-1-Dark/master/screenshot.jpg)
 > A close replica of the Atom **`One Dark`** syntax theme in **`Notepad++`**.
+
+## Installation
 
 ### Theme Installation
 
@@ -17,7 +22,7 @@ See HUJI's version of the course [here](https://github.com/AvivYaish/nand2tetris
 5. Open `Settings -> Style Configurator` and select `Npp-1-Dark`.
 6. Click `Save & Close`.
 
-### NAND2TET Syntax Highlighting Installation:
+### NAND2TET Syntax Highlighting Installation
 
 1. Download:
 
@@ -32,7 +37,8 @@ See HUJI's version of the course [here](https://github.com/AvivYaish/nand2tetris
 4. Click `Open`.
 5. Restart `Notepad++`.
 
-### Other Editors
+## Other Editors
+
 - [VSCode](https://marketplace.visualstudio.com/items?itemName=AvivYaish.nand-ide)
 - [VIM](https://github.com/sevko/vim-nand2tetris-syntax).
   Can easily install using vim-plug with:
